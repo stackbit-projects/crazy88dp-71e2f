@@ -26,7 +26,7 @@ sections:
       background_image_opacity: 0
       background_image_size: auto
       background_image_repeat: repeat
-    image: /images/AdobeStock_325328393-09246b75.jpeg
+    image: /images/AdobeStock_424772273.jpeg
   - type: blog_feed_section
     title: What's New
     show_recent: true
