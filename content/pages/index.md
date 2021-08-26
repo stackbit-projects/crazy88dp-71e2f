@@ -22,7 +22,7 @@ sections:
     has_background: false
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_image: /images/AdobeStock_325328393-c617f925.jpeg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
