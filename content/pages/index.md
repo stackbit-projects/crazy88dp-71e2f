@@ -6,6 +6,7 @@ sections:
     subtitle: >-
       We are business strategy specialists focused on providing powerful
       insights to business owners focused on digital and customer enhancements.
+      
       Our solutions are still undoing testing and development. We will return with more updates in the near future. Currently, we only work through selected partners and not ready to take direct queries.
     actions:
       - label: Learn More
