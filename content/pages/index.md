@@ -8,9 +8,7 @@ sections:
       insights to business owners focused on digital and customer enhancements.
       Our solutions are still undoing testing and development. We will return
       with more updates in the near future. Currently, we only work through
-      selected partners and not ready to take direct queries. Until then, we
-      hope you and your loved ones are managing through these trying times in
-      our global environment. Take care and stay safe.
+      selected partners and not ready to take direct queries.
     actions:
       - label: Learn More
         url: /features
