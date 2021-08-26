@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Welcome to PD
     subtitle: >-
       We are business strategy specialists focused on providing powerful
       insights to business owners focused on digital and customer enhancements.
