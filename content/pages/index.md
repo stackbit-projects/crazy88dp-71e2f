@@ -23,7 +23,7 @@ sections:
     background:
       background_color: blue
       background_image: /images/AdobeStock_325328393-c617f925.jpeg
-      background_image_opacity: 20
+      background_image_opacity: 0
       background_image_size: auto
       background_image_repeat: repeat
     image: /images/AdobeStock_325328393-09246b75.jpeg
